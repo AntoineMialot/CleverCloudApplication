@@ -10,7 +10,7 @@ Cette ADR est une lettre de motivation!
 
 ## Le contexte
 
-Je connais Clever Cloud depuis que j'ai commencé ma reconversion dans le développement web en janvier 2020. Ils mettent en avant la technique et le savoir et ce aussi bien pour du low-lever que pour du font-end, on peut le constater par exemple dans leur [podcast](https://clever-cloud.com/fr/podcast/). Je me suis donc toujours imaginé que ce serait un endroit où je pourrais apprendre énormément et donc m’épanouir.
+Je connais Clever Cloud depuis que j'ai commencé ma reconversion dans le développement web en janvier 2020. Ils mettent en avant la technique et le savoir et ce aussi bien pour du low-lever que pour du frontend, on peut le constater par exemple dans leur [podcast](https://clever-cloud.com/fr/podcast/). Je me suis donc toujours imaginé que ce serait un endroit où je pourrais apprendre énormément et donc m’épanouir.
 
 J'ai cette envie de comprendre ce que je fais donc j'ai commencé par apprendre les bases: le HTML et le CSS. J'ai ensuite appris le JavaScript. Et j'ai pu acquérir assez de compétences pour créer les sites web de mes clients. J'ai produit 6 sites (5 vitrines et 1 e-commerce) ([CV](https://github.com/AntoineMialot/CleverCloudApplication/blob/main/CV%20-%20A%20Mialot.pdf)) en 2 ans.
 
