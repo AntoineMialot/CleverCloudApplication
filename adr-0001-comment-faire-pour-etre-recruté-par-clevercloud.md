@@ -24,7 +24,7 @@ J'ai peur de ne pas attirer leur attention et donc de ne pas avoir d'entretien.
 
 ## La solution
 
-- Proposer un [bug fix](https://github.com/CleverCloud/clever-components/issues) pour un petit problème que j'ai repéré dans leur composant web
+- Proposer un [bug fix](https://github.com/CleverCloud/clever-components/issues/321) pour un petit problème que j'ai repéré dans leur composant web
 
 - Écrire cette ADR
 
