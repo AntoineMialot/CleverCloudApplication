@@ -18,7 +18,7 @@ Aujourd'hui je me sens légitime pour intégrer une entreprise ce qui me permett
 
 ## Le problème
 
-Mercredi soir je vois sur Tweeter un message de Hubert Sablonniére disant que Clever Cloud recrute une personne pour rejoindre son équipe frontend. Cela ne fait que quelques semaines que j'ai commencé à mettre à jour mon CV et comme tout bon cordonnier je n'ai pas encore de site web (il est en train d’être designé). Je ne maîtrise pas encore toutes les technologies demandées pour ce post. Bref je ne suis pas prêt!
+Mercredi soir je vois sur Tweeter un message de Hubert Sablonnière disant que Clever Cloud recrute une personne pour rejoindre son équipe frontend. Cela ne fait que quelques semaines que j'ai commencé à mettre à jour mon CV et comme tout bon cordonnier je n'ai pas encore de site web (il est en train d’être designé). Je ne maîtrise pas encore toutes les technologies demandées pour ce post. Bref je ne suis pas prêt!
 
 J'ai peur de ne pas attirer leur attention et donc de ne pas avoir d'entretien.
 
@@ -30,4 +30,4 @@ J'ai peur de ne pas attirer leur attention et donc de ne pas avoir d'entretien.
 
 ## Conséquences
 
-Un entretien avec Hubert Sabloniere où je pourrai le convaincre que je serai un atout et finir par bosser chez Clever!
+Un entretien avec Hubert Sablonnière où je pourrai le convaincre que je serai un atout et finir par bosser chez Clever!
